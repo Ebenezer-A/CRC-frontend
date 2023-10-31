@@ -1,0 +1,64 @@
+* {
+  background-color: #1d1d1d;
+}
+
+body {
+  margin: 0;
+}
+
+a {
+  text-decoration: none;
+  color: #fafafa;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+p,
+span,
+li {
+  color: #fafafa;
+  font-family: "Inter", sans-serif;
+}
+
+h2 {
+  margin-bottom: 0;
+}
+
+.container {
+  padding: 80px 350px 30px 350px;
+}
+
+.hand {
+  width: 25px;
+  height: 25px;
+}
+
+.thumbsup {
+  width: 20px;
+  height: 20px;
+}
+
+.summary {
+  font-weight: 200;
+  font-size: 19px;
+}
+
+a {
+  margin-right: 5px;
+}
+
+.aws {
+  width: 80px;
+}
+
+.wordpress {
+  width: 70px;
+}
+
+.propertiy {
+  font-weight: 500;
+  font-style: italic;
+}
