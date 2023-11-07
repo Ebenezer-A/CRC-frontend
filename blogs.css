@@ -57,3 +57,17 @@ p {
   margin: 0;
   font-weight: 250;
 }
+
+@media screen and (max-width: 820px) {
+  .container {
+    padding: 30px 0 30px 25px;
+  }
+
+  .card-container {
+    justify-content: center;
+  }
+
+  .card-image {
+    width: 300px;
+  }
+}

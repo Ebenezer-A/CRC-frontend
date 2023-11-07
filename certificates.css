@@ -55,3 +55,17 @@ p {
 .card-heading:hover {
   text-decoration-line: underline;
 }
+
+@media screen and (max-width: 820px) {
+  .container {
+    padding: 40px 0 30px 40px;
+  }
+
+  .card-container {
+    /* margin: 10px; */
+  }
+
+  .card-image {
+    width: 300px;
+  }
+}
